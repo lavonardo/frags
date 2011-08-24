@@ -1,0 +1,23 @@
+1: gazebo 
+stand on chair to get mallet out of box
+wearable hats (cap, top hat, beanie)
+
+2: yard
+push wire into ground, bend wire, push wire into ground (create gate), hit ball with mallet
+
+3: kitchen
+a gentleman never wears the hat inside
+fridge with herring inside
+
+4: roof
+climb on the roof 
+
+5: orchard
+get an apple
+
+6: back stairs
+an elderly cat under the stairs
+
+T: tasks
+list tasks as they are seen, list completion rate
+do a bonus task
